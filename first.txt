@@ -1,2 +1,4 @@
 Gitのれんしゅうをしていく
 更に勉強を重ねる
+・git add
+・git commit
